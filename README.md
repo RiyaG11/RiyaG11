@@ -1,5 +1,7 @@
-# Hi Developers 💫 
+### Hi Developers 💫 
 I'm a skilled professional with expertise in programming languages such as C++, JavaScript, ReactJS, and NodeJS. Proficient in the MERN stack, I craft dynamic and engaging web solutions. With a strong foundation in coding and problem-solving, I bring creativity and functionality to every project. I thrive on challenges, continuously expanding my skill set to deliver innovative and user-centric experiences. My dedication to clean, efficient code ensures seamless user interactions and optimal performance. As a driven individual, I'm excited to contribute my expertise to shaping the digital landscape through cutting-edge web development.
+
+![Visitor Count](https://profile-counter.glitch.me/RiyaG11/count.svg)
 
 
 ## 🌐 Socials:
